@@ -24,7 +24,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 ## Technical Architecture
 - **Language:** Python 3.x
 - **Cloud Provider:** AWS (S3)
-- **External API:** OpenWeather API
+- **External API:** OpenWeather API (https://openweathermap.org/)
 - **Dependencies:** 
   - boto3 (AWS SDK)
   - python-dotenv
